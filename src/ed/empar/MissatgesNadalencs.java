@@ -114,7 +114,7 @@ public class MissatgesNadalencs {
 
 	}
 
-	private static void AlumneFila1PC4() {
+	private static void AlumneFila1PC4("Adrián Ruiz os desea feliz año nuevo.") {
 
 	}
 
